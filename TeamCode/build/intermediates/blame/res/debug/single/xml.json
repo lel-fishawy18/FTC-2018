@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/pushbot.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/pushbot.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/device_filter.xml",
+        "source": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/bundles/default/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/app_settings.xml",
+        "source": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/bundles/default/res/xml/app_settings.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/advanced_rc_settings.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/advanced_rc_settings.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/squarebot.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/squarebot.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/k9usbbot.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/k9usbbot.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/k9legacybot.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/k9legacybot.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/xml/pushbotsens.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/xml/pushbotsens.xml"
+    }
+]

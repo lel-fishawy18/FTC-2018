@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/button_shape.xml",
+        "source": "/Users/Piter/.android/build-cache/29e21c01e1a6beba4fa9fe8fe437043ab9634f08/output/res/drawable/button_shape.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/black_border.xml",
+        "source": "/Users/Piter/.android/build-cache/7b8b2f79d2d455c765ac6ffef52b3498709b22ee/output/res/drawable/black_border.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_robotcontroller.png",
+        "source": "/Users/Piter/.android/build-cache/01971334fe1884709fc926ae992b2f08b37008d4/output/res/drawable/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/icon_menu.png",
+        "source": "/Users/Piter/.android/build-cache/01971334fe1884709fc926ae992b2f08b37008d4/output/res/drawable/icon_menu.png"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable/feedback_shape_orange.xml",
+        "source": "/Users/Piter/.android/build-cache/ed051dda701849def1f4ef429dc7d6f3d3bbf08e/output/res/drawable/feedback_shape_orange.xml"
+    }
+]

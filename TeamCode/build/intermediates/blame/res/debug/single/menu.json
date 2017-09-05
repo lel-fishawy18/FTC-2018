@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/Piter/.android/build-cache/7b8b2f79d2d455c765ac6ffef52b3498709b22ee/output/res/menu/menu_server.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/Piter/.android/build-cache/01971334fe1884709fc926ae992b2f08b37008d4/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/Piter/Documents/GitHub/ftc2018/TeamCode/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/Piter/Documents/GitHub/ftc2018/FtcRobotController/build/intermediates/bundles/default/res/menu/ftc_robot_controller.xml"
+    }
+]
